@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/license-Apache2-brightgreen.svg)](LICENSE)
 
 ----
-Hope it helps someone to do his coding hours more productive.
+Hope it helps someone to do his coding hours more productive. **(POMO timer on left)**
 
 ![POMO deactivated](/assets/img/Pomo1.png "Pomo Deactivated")
 ![POMO working](/assets/img/Pomo2.png "Pomo Working")
