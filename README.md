@@ -55,15 +55,15 @@ Hope it helps someone to do his coding hours more productive. **(POMO timer on l
 
 ## Powerline configuration
 1. Add the following to .tmux.conf
-```
-source /usr/share/powerline/bindings/tmux/powerline.conf 
-```
+    ```
+    source /usr/share/powerline/bindings/tmux/powerline.conf 
+    ```
 1. Run this commando so configurations can take place:
-```
-tmux source-file ~/.tmux.conf
-```
+    ```
+    tmux source-file ~/.tmux.conf
+    ```
 
 1. the default.json mentioned in FINAL STEPS should be inside in a folder structur similar to this one:
-```
-/home/<user>/.config/powerline/themes/tmux/default.json
-```
+    ```
+    /home/<user>/.config/powerline/themes/tmux/default.json
+    ```
