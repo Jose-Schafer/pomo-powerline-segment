@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pomo-segment
+Version: 0.0.1
+Summary: Powerline segment with Pomodor functionality
+Home-page: UNKNOWN
+Author: Jose Schafer
+Author-email: joseignacio.schafer@gmail.com
+License: UNKNOWN
+Description: Powerline segment that with help of a bash command can be use as a Pomodor utility where you can especify a timer. Written in python and inspired in https://github.com/rwxrob/pomo
+Platform: UNKNOWN
+Description-Content-Type: text/plain

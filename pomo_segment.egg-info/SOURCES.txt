@@ -1,0 +1,8 @@
+setup.py
+pomo_segment/__init__.py
+pomo_segment/custom.py
+pomo_segment/custom_debug.py
+pomo_segment.egg-info/PKG-INFO
+pomo_segment.egg-info/SOURCES.txt
+pomo_segment.egg-info/dependency_links.txt
+pomo_segment.egg-info/top_level.txt
